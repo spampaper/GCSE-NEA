@@ -1,0 +1,2 @@
+python Nea.py
+pause
